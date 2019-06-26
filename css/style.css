@@ -1,0 +1,30 @@
+* {margin: 0; padding: 0;}
+body {
+    width: 1000px;
+    margin: auto;
+}
+
+header {
+    width: 1000px;
+    height: 3000px;
+}
+header img {
+    width: 1000px;
+    height: 3000px;
+}
+
+menu {
+    width: 980px;
+    height: 10px;
+    background-color: blue;
+    padding: 10px;
+}
+
+menu li {
+    list-style: none;
+    float: left;
+    margin-right: 10px
+}
+menu li a:hover {
+    color: oldlace;
+}
